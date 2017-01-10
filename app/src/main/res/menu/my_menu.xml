@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/TabFragment1"
+        android:title="अंतर्बर्ताबा" />
+
+    <item android:id="@+id/TabFragment2"
+        android:title="राजनीति" />
+    <item android:id="@+id/TabFragment3"
+        android:title="सहीयेतेय" />
+
+
+
+</menu>

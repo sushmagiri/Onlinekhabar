@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/logo"
+        android:title="झिल्को"
+     />
+
+    <item android:id="@+id/AboutUs"
+        android:title="समाचार"
+        android:icon="@drawable/globe"
+        />
+    <item android:id="@+id/Gallery"
+        android:title="गल्लेरी"
+        android:icon="@drawable/gallery"/>
+    <item android:id="@+id/Rashifal"
+        android:title="राशिफल"
+        android:icon="@drawable/fortuneteller"/>
+    <item android:id="@+id/SunChandi"
+        android:title="सून-चांदी"
+
+
+        />
+
+
+</menu>
